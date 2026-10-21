@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "bundleIdentifier": "app.shift.ios",
+  "version": "0.1.0",
+  "build": 3,
+  "notes": "Adds software version and update checks, improves Pod search retries and priming progress, and unifies deactivation confirmation and completion. Updates for this development build are installed through Xcode.",
+  "criticalBuilds": [],
+  "releaseURL": "https://github.com/matdoslb/Shift/tree/main/updates"
+}
