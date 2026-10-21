@@ -2,7 +2,7 @@
 
 These files let Shift check which development build is current. They are public release metadata, not an app download or a distribution service. They contain no user, Pod, glucose or insulin data.
 
-Current development build: **0.1.0 (3)**. Installation is through the developer's Xcode build. There is no public TestFlight or App Store release yet.
+Current development build: **0.1.0 (4)**. Installation is through the developer's Xcode build. There is no public TestFlight or App Store release yet.
 
 - `ios.json` is for `app.shift.ios`.
 - `sim.json` is for `app.shift.sim`.
