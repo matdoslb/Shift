@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "bundleIdentifier": "app.shift.ios",
   "version": "0.1.0",
-  "build": 4,
-  "notes": "Refines the Settings version card with clear update-status icons and simplifies About Shift. Updates for this development build are installed through Xcode.",
+  "build": 5,
+  "notes": "Shows update status beside the version in Settings and restores the navigation arrow. Updates for this development build are installed through Xcode.",
   "criticalBuilds": [],
   "releaseURL": "https://github.com/matdoslb/Shift/tree/main/updates"
 }
