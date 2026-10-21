@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "bundleIdentifier": "app.shift.sim",
   "version": "0.1.0",
-  "build": 5,
-  "notes": "Shows update status beside the version in Settings and restores the navigation arrow. Updates for this development build are installed through Xcode.",
+  "build": 6,
+  "notes": "Refines update-status spacing, shows Version and Revision in About Shift, and animates checking for updates. Updates for this development build are installed through Xcode.",
   "criticalBuilds": [],
   "releaseURL": "https://github.com/matdoslb/Shift/tree/main/updates"
 }
