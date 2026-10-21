@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "bundleIdentifier": "app.shift.ios",
   "version": "0.1.0",
-  "build": 6,
-  "notes": "Refines update-status spacing, shows Version and Revision in About Shift, and animates checking for updates. Updates for this development build are installed through Xcode.",
+  "build": 7,
+  "notes": "Removes app-reset controls from Shift. Adds a Developer mode switch and reset-to-setup option in Shift Sim. Updates for this development build are installed through Xcode.",
   "criticalBuilds": [],
   "releaseURL": "https://github.com/matdoslb/Shift/tree/main/updates"
 }
